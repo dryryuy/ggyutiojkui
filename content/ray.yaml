@@ -44,7 +44,7 @@ inbounds:
     wsSettings:
       path: /UUID-vmess
   sniffing:
-    enabled: true
+    enabled: false
     destOverride:
     - http
     - tls
@@ -58,7 +58,7 @@ inbounds:
     wsSettings:
       path: /UUID-vmess
   sniffing:
-    enabled: true
+    enabled: false
     destOverride:
     - http
     - tls
@@ -74,7 +74,7 @@ inbounds:
     wsSettings:
       path: /UUIDo-vmess
   sniffing:
-    enabled: true
+    enabled: false
     destOverride:
     - http
     - tls
