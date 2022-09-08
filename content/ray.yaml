@@ -42,7 +42,7 @@ inbounds:
   streamSettings:
     network: ws
     wsSettings:
-      path: /UUID-sh
+      path: /UUID-vmess
   sniffing:
     enabled: true
     destOverride:
@@ -56,7 +56,7 @@ inbounds:
   streamSettings:
     network: ws
     wsSettings:
-      path: /UUID-tr
+      path: /UUID-vmess
   sniffing:
     enabled: true
     destOverride:
@@ -72,7 +72,7 @@ inbounds:
   streamSettings:
     network: ws
     wsSettings:
-      path: /UUID-so
+      path: /UUIDo-vmess
   sniffing:
     enabled: true
     destOverride:
